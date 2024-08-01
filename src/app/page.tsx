@@ -27,7 +27,7 @@ export default function Home() {
           />
         </div>
         <h1 className="text-4xl font-bold mt-4 text-black">Gowtham Reilly</h1>
-        <p className="text-lg mt-2 text-black">Reformer</p>
+        <p className="text-lg mt-2 text-black">In the pursuit of greatness</p>
       </div>
     </main>
   );
